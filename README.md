@@ -15,3 +15,12 @@
 pytrends: https://github.com/GeneralMills/pytrends
 
 streamlit API: https://docs.streamlit.io
+
+
+
+## 기능
+
+1. 월별로 인기 관광지 세대별로 분석 후 1 ~ 10위까지의 순위 산출
+   - 구글에 검색했을 대 어떤 키워드가 많이 등장했는지
+   - 어떤 세대가 많이 검색했는지
+   - `src/modules/popular_place_per_gen`
