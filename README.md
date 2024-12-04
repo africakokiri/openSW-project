@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 >
 > - 기능 구현 완료되면 Develop 브랜치로 PR 하시면 됩니다.
-> - PR은 2명 이상 코드 리뷰해야 하는 것으로 ruleset 설정했습니다.
+> - PR은 1명 이상 코드 리뷰해야 하는 것으로 ruleset 설정했습니다.
 
  &nbsp;
 
