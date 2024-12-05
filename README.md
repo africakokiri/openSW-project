@@ -16,3 +16,16 @@
 pytrends: https://github.com/GeneralMills/pytrends
 
 Streamlit API: https://docs.streamlit.io
+
+
+
+## 구현해야 할 기능
+
+- [ ] 순위별로 데이터 정렬 기능
+- [ ] 사용자에게 필요한 정보 브라우저에 저장 기능
+- [ ] 사용자가 불필요하다고 판단하는 특정한 칼럼 제거 기능
+- [ ] AI(GPT, Gemini, Claude)로 데이터 보정 -> **필요 시 추가**
+- [ ] 사용자가 검색한 키워드에 대한 정보 제공
+- [ ] 월별 인기 장소 순위 기능
+- [ ] 시간대, 지역별 인기 장소 순위 기능
+- [ ] 카테고리를 통한 정보 제공 기능
