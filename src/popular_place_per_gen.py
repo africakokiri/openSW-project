@@ -19,14 +19,32 @@ with tab_20:
     df = pd.DataFrame([[37.8835, 127.73831]], columns=["lat", "lon"])
     st.map(df)
 
-
 with tab_30:
-    st.header("A cat")
+    write_csv(
+        "csv/popular_place_per_gen_3.csv",
+        ["순위", "관심지점명", "주소도로명", "세대검색건수"],
+    )
+
 with tab_40:
-    st.header("A cat")
+    write_csv(
+        "csv/popular_place_per_gen_4.csv",
+        ["순위", "관심지점명", "주소도로명", "세대검색건수"],
+    )
+
 with tab_50:
-    st.header("A cat")
+    write_csv(
+        "csv/popular_place_per_gen_5.csv",
+        ["순위", "관심지점명", "주소도로명", "세대검색건수"],
+    )
+
 with tab_60:
-    st.header("A cat")
+    write_csv(
+        "csv/popular_place_per_gen_6.csv",
+        ["순위", "관심지점명", "주소도로명", "세대검색건수"],
+    )
+
 with tab_all:
-    st.header("A cat")
+    write_csv(
+        "csv/popular_place_per_gen_all.csv",
+        ["순위", "관심지점명", "주소도로명", "세대검색건수"],
+    )
